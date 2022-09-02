@@ -1,6 +1,13 @@
 # What is this repo?
 - This repo shows useMemo in combination with useEffect inside App.js
 
+## Installation
+- `npm install`
+- `npm start`
+
+## Testing
+- Open up the app in the browser then play with the width of the screen with the console open. Go back and forth around 767px to see the value of isMobile change on the screen!
+
 ## Why?
 - Need an event listener for the specific event: Window has gone from above 767 to below it, or vice versa
 
